@@ -57,7 +57,7 @@ The project is designed to simulate CPU scheduling in operating systems and serv
 
 ## License 📝
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Proprietary License. See the [LICENSE](LICENSE) file for details.
 
 ## Author ✍️
 
